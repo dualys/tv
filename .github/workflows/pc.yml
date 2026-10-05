@@ -1,4 +1,4 @@
-name: PC
+name: TV
 on:
   push:
     branches: ["main"]
