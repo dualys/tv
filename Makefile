@@ -21,7 +21,7 @@ OVMF_VARS := $(firstword $(wildcard \
 
 QEMU_SMP := 2
 IMAGE_PATH := dualys-uefi.img
-ISO_PATH := dualys.iso
+ISO_PATH := dualys-tv.iso
 TIMEOUT := 300
 SUB_PROC := 2
 
